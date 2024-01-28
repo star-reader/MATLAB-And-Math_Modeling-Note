@@ -3,6 +3,7 @@
 
 ## 【数学建模】
 笔记部分位于note.md中，部分源代码位于MATLAB
+在GitHub预览可打开note_preview.md
 
 ## 【MATLAB】
 源码&交互式文件（mlx）位于MATLAB文件夹中
